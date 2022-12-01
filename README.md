@@ -1,6 +1,5 @@
-<!---
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/))
--->
+
+![](https://media.giphy.com/media/n9UalOPoRHGCJd7bFl/giphy.gif)
 
 ### Languages
 
