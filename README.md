@@ -20,4 +20,4 @@
 ### Projects
 
 Temp - updating currently
-[![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)](https://github.com/UnclePedro/java-unit-tester)
+[![](https://img.shields.io/badge/-✔%20Java%20Checker-000)](https://github.com/UnclePedro/java-unit-tester)
