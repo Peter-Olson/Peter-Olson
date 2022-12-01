@@ -14,7 +14,9 @@
 
 ### Technologies
 
+![Excel](https://img.shields.io/badge/-Excel-000?&logo=Excel)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![GameMaker](https://img.shields.io/badge/-GameMaker-000?&logo=GameMaker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 
