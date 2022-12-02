@@ -20,4 +20,21 @@
 ### Projects
 
 Temp - updating currently
+
+**Image Processing and ML**
+
+
+
+**Video Games**
+
+
+
+**Word Processing**
+
+
+
+**Grading Programs**
+
 [![](https://img.shields.io/badge/-✔%20Java%20Checker-000)](https://github.com/UnclePedro/java-unit-tester)
+[![](https://img.shields.io/badge/-☑%20Python%20Checker-000)](https://github.com/UnclePedro/python-unit-tester)
+[![](https://img.shields.io/badge/-🔢%20Grader%20Math-000)](https://github.com/UnclePedro/grader_math)
