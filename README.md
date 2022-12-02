@@ -35,6 +35,7 @@ Temp - updating currently
 
 **Word Processing**
 
+[![](https://img.shields.io/badge/-🔠%20Dictionary%20Search%20Tool-000)](https://github.com/Peter-Olson/dictionary-search-tool)
 [![](https://img.shields.io/badge/-🔀%20AWD%20Cipher-000)](https://github.com/Peter-Olson/awd-cipher)
 
 **Grading Programs**
