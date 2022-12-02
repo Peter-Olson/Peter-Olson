@@ -21,8 +21,6 @@
 
 ----------------------------------------------------------------
 
-Temp - updating currently
-
 **Image Processing and ML**
 
 [![](https://img.shields.io/badge/-0️⃣%20Image%20Classification%20Binary-000)](https://github.com/Peter-Olson/image-classification-ML-SSVM)
