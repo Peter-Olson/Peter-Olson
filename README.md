@@ -25,8 +25,8 @@ Temp - updating currently
 
 **Image Processing and ML**
 
-[![](https://img.shields.io/badge/-0️⃣%20Image%20Classification%20Binary-000)](https://github.com/UnclePedro/image-classification-ML-SSVM)
-[![](https://img.shields.io/badge/-1️⃣%20Image%20Classification%20Multiclass-000)](https://github.com/UnclePedro/image-classification-ML-SSVM-multiclass)
+[![](https://img.shields.io/badge/-0️⃣%20Image%20Classification%20Binary-000)](https://github.com/Peter-Olson/image-classification-ML-SSVM)
+[![](https://img.shields.io/badge/-1️⃣%20Image%20Classification%20Multiclass-000)](https://github.com/Peter-Olson/image-classification-ML-SSVM-multiclass)
 
 **Video Games**
 
@@ -38,10 +38,10 @@ Temp - updating currently
 
 **Grading Programs**
 
-[![](https://img.shields.io/badge/-✔%20Java%20Checker-000)](https://github.com/UnclePedro/java-unit-tester)
-[![](https://img.shields.io/badge/-☑%20Python%20Checker-000)](https://github.com/UnclePedro/python-unit-tester)
-[![](https://img.shields.io/badge/-🔢%20Grader%20Math-000)](https://github.com/UnclePedro/grader_math)
+[![](https://img.shields.io/badge/-✔%20Java%20Checker-000)](https://github.com/Peter-Olson/java-unit-tester)
+[![](https://img.shields.io/badge/-☑%20Python%20Checker-000)](https://github.com/Peter-Olson/python-unit-tester)
+[![](https://img.shields.io/badge/-🔢%20Grader%20Math-000)](https://github.com/Peter-Olson/grader_math)
 
 ----------------------------------------------------------------------
 
-<!--- <a href="https://www.adamalston.com/"> --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnclePedro&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> <!--- </a> -->
+<!--- <a href="https://www.adamalston.com/"> --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peter-Olson&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> <!--- </a> -->
