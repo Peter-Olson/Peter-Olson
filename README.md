@@ -30,6 +30,7 @@ Temp - updating currently
 
 **Video Games**
 
+[![](https://img.shields.io/badge/-🐭%20Pokemon%20Game-000)](https://github.com/Peter-Olson/pokemon-game-greenfoot)
 [![](https://img.shields.io/badge/-🗡%20The%20RSI%20Files%20Game-000)](https://github.com/Peter-Olson/the-rsi-files-game)
 [![](https://img.shields.io/badge/-🐱‍👤%20Solo%20Leveling%20Text%20RPG-000)](https://github.com/Peter-Olson/solo-leveling-text-rpg)
 [![](https://img.shields.io/badge/-💧%20MTG%20Search-000)](https://github.com/Peter-Olson/mtg-search)
