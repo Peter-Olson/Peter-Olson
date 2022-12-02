@@ -19,6 +19,8 @@
 
 ### Projects
 
+----------------------------------------------------------------
+
 Temp - updating currently
 
 **Image Processing and ML**
