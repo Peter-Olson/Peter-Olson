@@ -41,3 +41,7 @@ Temp - updating currently
 [![](https://img.shields.io/badge/-✔%20Java%20Checker-000)](https://github.com/UnclePedro/java-unit-tester)
 [![](https://img.shields.io/badge/-☑%20Python%20Checker-000)](https://github.com/UnclePedro/python-unit-tester)
 [![](https://img.shields.io/badge/-🔢%20Grader%20Math-000)](https://github.com/UnclePedro/grader_math)
+
+----------------------------------------------------------------------
+
+<!--- <a href="https://www.adamalston.com/"> --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnclePedro&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> <!--- </a> -->
