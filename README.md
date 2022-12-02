@@ -34,7 +34,7 @@ Temp - updating currently
 
 **Word Processing**
 
-
+[![](https://img.shields.io/badge/-🔀%20AWD%20Cipher-000)](https://github.com/Peter-Olson/awd-cipher)
 
 **Grading Programs**
 
