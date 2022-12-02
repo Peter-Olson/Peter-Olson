@@ -25,7 +25,8 @@ Temp - updating currently
 
 **Image Processing and ML**
 
-
+[![](https://img.shields.io/badge/-0️⃣%20Image%20Classification%20Binary-000)](https://github.com/UnclePedro/image-classification-ML-SSVM)
+[![](https://img.shields.io/badge/-1️⃣%20Image%20Classification%20Multiclass-000)](https://github.com/UnclePedro/image-classification-ML-SSVM-multiclass)
 
 **Video Games**
 
